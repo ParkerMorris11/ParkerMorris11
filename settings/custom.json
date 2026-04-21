@@ -2,8 +2,8 @@
   "backgroundColor": "#0d1117",
   "foregroundColor": "#e6edf3",
   "fileName": "profile-customize.svg",
-  "type": "gitblock",
+  "type": "isometric",
   "panelColor": "#161b22",
   "panelBorderColor": "#21262d",
-  "contributionColorArray": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+  "contributionColorArray": ["#1e2a1e", "#0e4429", "#006d32", "#26a641", "#39d353"]
 }
