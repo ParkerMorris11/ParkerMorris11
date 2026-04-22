@@ -3,7 +3,7 @@
   "foregroundColor": "#ffffff",
   "fileName": "profile-customize.svg",
   "type": "isometric",
-  "panelColor": "#2a2a2a",
-  "panelBorderColor": "#555555",
-  "contributionColorArray": ["#333333", "#555555", "#888888", "#bbbbbb", "#ffffff"]
+  "panelColor": "#1a1a1a",
+  "panelBorderColor": "#333333",
+  "contributionColorArray": ["#2d2d2d", "#606060", "#909090", "#c0c0c0", "#ffffff"]
 }
