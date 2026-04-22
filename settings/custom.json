@@ -4,5 +4,9 @@
   "type": "isometric",
   "panelColor": "#161b22",
   "panelBorderColor": "#21262d",
-  "contributionColorArray": ["#1e2a1e", "#0e4429", "#006d32", "#26a641", "#39d353"]
+  "contributionColorArray": ["#1e2a1e", "#0e4429", "#006d32", "#26a641", "#39d353"],
+  "displaySettings": {
+    "languages": false,
+    "contribs": false
+  }
 }
